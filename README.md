@@ -1,4 +1,4 @@
-# Dagwale Coaching Classes - Professional Website
+# Dagwale Coaching Classes Website
 
 A modern, responsive, multi-page website for Dagwale Coaching Classes specializing in Class 11th, 12th, CET, JEE, and NEET preparation.
 
