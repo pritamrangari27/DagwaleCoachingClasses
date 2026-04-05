@@ -597,4 +597,4 @@ document.addEventListener('DOMContentLoaded', function() {
 
 console.log('%cDagwale Coaching Classes', 'color: #001a4d; font-size: 20px; font-weight: bold;');
 console.log('%cWelcome! Version 1.0', 'color: #ff8c00; font-weight: bold;');
-console.log('For support, contact: info@dagwale.com');
+console.log('For support, contact: priya.dagwale@gmail.com');
