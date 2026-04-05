@@ -13,19 +13,6 @@ A modern, responsive, multi-page website for Dagwale Coaching Classes specializi
   - JEE Advanced
   - NEET Mastery
   - Foundation Program
-- **Why Choose Us**: Six feature tiles highlighting strengths
-- **Contact & Lead Capture**: Functional enrollment form with:
-  - Form validation
-  - Course selection dropdown
-  - Google Maps embed placeholder
-  - Contact details section
-- **Footer**: Integrated footer with:
-  - About section
-  - Quick links
-  - Courses overview
-  - Newsletter subscription
-  - Social media links
-  - Footer bottom links (Privacy, Terms, Refund)
 
 ## 📁 File Structure
 
