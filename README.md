@@ -23,22 +23,6 @@ d:/Project/Coaching/
 ├── styles.css          # Main stylesheet
 ├── script.js           # JavaScript functionality
 ├── images/             # Image directory (to be populated)
-│   ├── library-study-space.jpg
-│   ├── smart-classroom.jpg
-│   ├── class-session.jpg
-│   ├── student-collaboration.jpg
-│   ├── science-lab.jpg
-│   ├── computer-lab.jpg
-│   ├── study-materials.jpg
-│   ├── award-ceremony.jpg
-│   ├── success-board.jpg
-│   ├── merit-certificates.jpg
-│   ├── seminar.jpg
-│   ├── skill-workshop.jpg
-│   ├── career-fair.jpg
-│   ├── doubt-session.jpg
-│   ├── student-testimonial.jpg
-│   └── mock-exam.jpg
 └── README.md           # This file
 ```
 
